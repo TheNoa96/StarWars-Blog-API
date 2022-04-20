@@ -119,3 +119,4 @@ class Favorite(db.Model):
         return {
     "favorito" : self.favorito
         }
+
